@@ -2,3 +2,5 @@
 Identidock Continuous Integration
 
 Testing the build in jenkins
+
+Pushing images
